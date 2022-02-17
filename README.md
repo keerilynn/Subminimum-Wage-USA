@@ -1,5 +1,5 @@
 # Subminimum-Wage-USA
-14(c) certificate holders in the Untied States
+An analysis of 14(c) certificate holders in the Untied States via Tableau
 
 14(c) certificate holders are legally allowed to pay individuals below the federal minimum wage. Typically these are people with intellectual and/or developmental disabilities. I scraped the source site and created a Tableau dashboard to display the data. The data/dashboard is now being used to lobby agains 14(c) certificate holders in Minnesota legislation 2022.
 
